@@ -1,0 +1,36 @@
+
+
+1. 1.14011948308
+matrices sizes are: 8, 8
+2. 0.0
+matrices sizes are: 8, 8
+Running time is:0.445446968079
+Number of iterations is: 1000
+
+
+1. 1.35355339059
+matrices sizes are: 8, 8
+2. 1.29861313213
+matrices sizes are: 8, 8
+
+Running time is:0.467258930206
+Number of iterations is: 1000
+
+
+1. 1.09275231033
+matrices sizes are: 8, 8
+2. 0.963342787782
+matrices sizes are: 8, 8
+
+Running time is:0.498730897903
+Number of iterations is: 1000
+
+
+1. 0.912570384968
+matrices sizes are: 8, 8
+2. 1.29861313213
+matrices sizes are: 8, 8
+
+Running time is:0.491974115372
+Number of iterations is: 1000
+
