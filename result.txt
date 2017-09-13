@@ -34,3 +34,13 @@ matrices sizes are: 8, 8
 Running time is:0.491974115372
 Number of iterations is: 1000
 
+
+
+Running time is:0.000391006469727
+Number of iterations is: 1000
+
+
+
+Running time is:8.58306884766e-05
+Number of iterations is: 1000
+

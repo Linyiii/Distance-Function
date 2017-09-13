@@ -177,6 +177,9 @@ def distance(matrix1,matrix2):
             result=min(result,distance_once(G1,G3,partition_func))
         return result
 
+def new():
+    print "something new"
+
 starttime=time.time()
 f_names= glob.glob(path)
 graph_list=[]
